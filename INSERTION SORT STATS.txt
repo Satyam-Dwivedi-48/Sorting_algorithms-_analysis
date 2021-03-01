@@ -1,0 +1,37 @@
+SELECTION SORT TIMINGS
+100K
+took 25.789000 seconds to execute 
+The number of comparisons=704982704
+
+150K
+took 56.378000 seconds to execute 
+The number of comparisons=2659990408
+
+200K
+took 110.851000 seconds to execute 
+The number of comparisons=2820030816
+
+250K
+took 156.046875 seconds to execute 
+The number of comparisons=31249875000
+
+300K
+took 186.343750 seconds to execute 
+The number of comparisons=44999850000
+
+350K
+took 245.390625 seconds to execute 
+The number of comparisons=61249825000
+
+400K
+took 312.890625 seconds to execute 
+The number of comparisons=79999800000
+
+450K
+took 385.812500 seconds to execute 
+The number of comparisons=101249775000
+
+500K
+took 477.687000 seconds to execute 
+The number of comparisons=124999750000
+
