@@ -1,0 +1,9 @@
+WSL BASH OR POWERSHELL RECOMMENDED
+
+powershell/WSL bash
+gcc main_handler.c implementation.c -o some_name
+./some_name.exe > to_be_writtenfile.txt
+
+./some_name > to_be_writtenfile.txt
+
+avoid cmd prompt of windows as antivirus firewall blocks from writing to a file
