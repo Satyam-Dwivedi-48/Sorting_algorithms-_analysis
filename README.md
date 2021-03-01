@@ -9,3 +9,6 @@ the pdf file uploaded has the method prescriped for generatinf these random file
 refer to '>' command in Linux environment to learn more about writing output to a file
 
 WSL BASH ,UBUNTU OR POWERSHELL RECOMMENDED IN VISUAL STUDIO CODE FOR EXECUTION OF THE CODE AS CMD MIGHT THROW A FIREWALL ERROR WITH 3RD PARTY ANTI-MALWARE SOFTWARES
+
+graphs plotted using desmos graphing tool online,and the legends of graphs provided in another .txt file
+
