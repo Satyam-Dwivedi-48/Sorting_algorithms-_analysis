@@ -1,0 +1,35 @@
+100k
+took 9.937500 seconds to execute 
+The number of comparisons=83112
+
+150k
+took 22.421875 seconds to execute 
+The number of comparisons=124653
+
+200k
+took 39.968750 seconds to execute 
+The number of comparisons=166250
+
+250k
+took 62.000000 seconds to execute 
+The number of comparisons=208069
+ 
+300k
+took 89.640625 seconds to execute 
+The number of comparisons=249481
+
+350k
+took 122.546875 seconds to execute 
+The number of comparisons=290562
+
+400k
+took 160.031250 seconds to execute 
+The number of comparisons=332032
+
+450k
+took 202.703125 seconds to execute 
+The number of comparisons=373619
+
+500k
+took 249.578125 seconds to execute 
+The number of comparisons=414845

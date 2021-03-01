@@ -1,0 +1,35 @@
+MERGE SORT STATS
+100K
+took 6.724000 seconds to execute 
+The number of comparisons=1536356
+
+150K
+took 17.357000 seconds to execute 
+The number of comparisons=2392187
+200K
+took 31.899000 seconds to execute 
+The number of comparisons=3272743
+
+250K
+took 53.899000 seconds to execute 
+The number of comparisons=4168781
+
+300K
+took 89.453125 seconds to execute 
+The number of comparisons=5085011
+
+350K
+took 121.609375 seconds to execute 
+The number of comparisons=6011998
+
+400K
+took 159.765625 seconds to execute 
+The number of comparisons=6945971
+
+450K
+took 202.500000 seconds to execute 
+The number of comparisons=7889401
+
+500K
+took 249.984375 seconds to execute 
+The number of comparisons=8838321

@@ -1,0 +1,28 @@
+BUBBLE SORT STATS
+100K
+took 55.618000 seconds to execute 
+The number of comparisons=704885684
+150K
+took 94.268000 seconds to execute 
+The number of comparisons=2659930723
+200K
+took 132.512000 seconds to execute 
+The number of comparisons=2819884205
+250K
+took 244.703125 seconds to execute 
+The number of comparisons=31249676865
+300K
+took 304.781250 seconds to execute 
+The number of comparisons=44999846997
+350K
+took 418.250000 seconds to execute 
+The number of comparisons=61249545622
+400K
+took 561.687500 seconds to execute 
+The number of comparisons=79999670205
+450K
+took 710.750000 seconds to execute 
+The number of comparisons=101249732222
+500K
+took 830.631000 seconds to execute 
+The number of comparisons=443762888
